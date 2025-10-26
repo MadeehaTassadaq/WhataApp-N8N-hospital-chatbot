@@ -4,7 +4,7 @@
     {
       "parameters": {
         "httpMethod": "POST",
-        "path": "211af792-2260-4dc4-b9f9-fac530145cfa",
+        "path": "",
         "responseMode": "responseNode",
         "options": {}
       },
@@ -14,9 +14,9 @@
         -592,
         -464
       ],
-      "id": "21d59129-054e-40c1-b5c4-839b8d7640ac",
+      "id": "",
       "name": "Webhook",
-      "webhookId": "211af792-2260-4dc4-b9f9-fac530145cfa"
+      "webhookId": ""
     },
     {
       "parameters": {
@@ -691,7 +691,7 @@
   "versionId": "88e44bee-478e-40a5-a58d-ccb005a90805",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "394ae83c09b4fd80ac9f79dca56f403d2b9ec6cb6172ef3f71f5c143cbd25dec"
+    "instanceId": ""
   },
   "id": "tad5FIJoYGgwb9BY",
   "tags": []
